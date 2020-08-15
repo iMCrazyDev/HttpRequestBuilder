@@ -193,7 +193,7 @@
             this.Controls.Add(this.reqMethod);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "MainForm";
-            this.Text = "HttpRequest Builder";
+            this.Text = "HttpRequestBuilder";
             this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
